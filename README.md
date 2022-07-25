@@ -23,14 +23,7 @@ y para ejecutarlo use ```./src/main ```
 
 ## Integrantes:
 * Joaquín Abarca Rol: 202030519-6 Estudiante ing. Civil en Telemática
-* Fernando Carrasco Rol: 202030542-0 Estudiante ing. Civil en Telemática
 * Ricardo Díaz Rol: 202030510-2 Estudiante ing. Civil en Telemática
-
-# LEANME
-profesor, es posible que vea muchas issues terminadas, con el mismo nombre resulta que desconociamos 
-el hecho de que las issues no se podian borrar, espero que lo considere
-
-
 
 #### buenas prácticas:
 * con guión o asterisco puedes hacer una itemización(markdown)
