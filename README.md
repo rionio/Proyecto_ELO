@@ -21,10 +21,6 @@ o hacer un makefile, que se necesitara instalar primero
 luego solo debera ejecutar el comado ``` make ``` en la carpeta del repositorio
 y para ejecutarlo use ```./src/main ```
 
-## Integrantes:
-* Joaquín Abarca Rol: 202030519-6 Estudiante ing. Civil en Telemática
-* Ricardo Díaz Rol: 202030510-2 Estudiante ing. Civil en Telemática
-
 #### buenas prácticas:
 * con guión o asterisco puedes hacer una itemización(markdown)
 * que los commits sean concisos(tu cambias lo que vas a hacer), no a los cambios innecesarios
